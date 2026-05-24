@@ -232,8 +232,8 @@ img {
   transform: scale(1.03);
 }
 
-.profile_content p{
-  color:var(--texto-secundario--);
+.profile__content p{
+  color: var(--texto-secundario--);
   line-height: 1.8;
 }
 
@@ -247,7 +247,7 @@ img {
   transition: transform 0.3s ease;
 }
 
-.profile_cotente section:houver {
+.profile__cotente section:houver {
   transform: translatY(-3px);
 }
 
