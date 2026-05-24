@@ -441,7 +441,7 @@ footer {
   }
 
   .profile__grid {
-    grid-template-columns: 15px 350px 1fr 15px;
+    grid-template-columns: 15px 500px 1fr 15px;
   }
 
   .profile__sidebar {
