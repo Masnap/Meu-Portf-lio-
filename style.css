@@ -233,7 +233,7 @@ img {
 }
 
 .profile__content p{
-  color: var(--texto-secundario--);
+  color: var(--texto-secundario);
   line-height: 1.8;
 }
 
