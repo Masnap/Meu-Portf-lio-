@@ -186,7 +186,7 @@ img {
 }
 
 .profile-card__details p {
-  color: var(--texto-secundario);
+  color: var(--texto-secundario) ! important;
 }
 
 .profile-card__details i {
