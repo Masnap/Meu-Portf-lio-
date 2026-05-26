@@ -247,8 +247,8 @@ img {
   transition: transform 0.3s ease;
 }
 
-.profile__cotente section:houver {
-  transform: translatY(-3px);
+.profile__contente section:hover {
+  transform: translateY(-3px);
 }
 
 .profile-skills__container {
